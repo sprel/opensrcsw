@@ -8,7 +8,7 @@ public class Gugudan {
 		
 		Scanner in = new Scanner(System.in);
 		int dan;
-		
+		System.out.println("v1.0");
 		System.out.println("단을 입력하세요: ");
 		dan = in.nextInt();
 		
